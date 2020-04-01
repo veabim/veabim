@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veabim", "veabim\veabim.csproj", "{89AD291E-1713-45DE-954E-34C8738ED986}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smartCircuitsVeabim", "smartCircuitsVeabim\smartCircuitsVeabim.csproj", "{BA476C91-5B06-46C4-B87D-02B633DCA87E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oneLineDiagramVeabim", "oneLineDiagramVeabim\oneLineDiagramVeabim.csproj", "{63C40331-54C1-4CE0-8429-AB6140D29D40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{89AD291E-1713-45DE-954E-34C8738ED986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89AD291E-1713-45DE-954E-34C8738ED986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89AD291E-1713-45DE-954E-34C8738ED986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA476C91-5B06-46C4-B87D-02B633DCA87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA476C91-5B06-46C4-B87D-02B633DCA87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA476C91-5B06-46C4-B87D-02B633DCA87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA476C91-5B06-46C4-B87D-02B633DCA87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C40331-54C1-4CE0-8429-AB6140D29D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C40331-54C1-4CE0-8429-AB6140D29D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C40331-54C1-4CE0-8429-AB6140D29D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C40331-54C1-4CE0-8429-AB6140D29D40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

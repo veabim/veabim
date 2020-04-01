@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace veabim
+namespace oneLineDiagramVeabim
 {
-    public class uiApplication
+    public class MainViewModelVeabim
     {
     }
 }
